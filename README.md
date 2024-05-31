@@ -1,5 +1,4 @@
 # 💫 About Me:
-A Aspiring developer
 Working on creating a web application using servlets and jsp.<br>Currently learning Javascript<br>Reach out to me at gnharshitha8@gmail.com
 
 
