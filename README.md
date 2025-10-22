@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on creating a web application using servlets and jsp.<br>Currently learning Javascript<br>Reach out to me at gnharshitha8@gmail.com
+Reach out to me at gnharshitha8@gmail.com
 
 
 # 💻 Tech Stack:
