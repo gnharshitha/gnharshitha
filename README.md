@@ -1,6 +1,10 @@
 # 💫 About Me:
-Reach out to me at gnharshitha8@gmail.com
 
+👋 Hi, I'm Harshitha!  
+🎓 I'm a passionate software developer
+💡 Currently building projects in Java, VB.net, and web technologies.  
+🌱 I'm learning backend development and exploring Microservices systems.  
+📫 Reach me at: your.gnharshitha8@example.com
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SpeingBoot](https://img.shields.io/badge/SpringBoot-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
