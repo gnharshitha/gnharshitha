@@ -4,7 +4,7 @@
 🎓 I'm a passionate software developer                                                                                                                                                                                 
 💡 Currently building projects in Java, VB.net, and web technologies.  
 🌱 I'm learning backend development and exploring Microservices.  
-📫 Reach me at: gnharshitha8@example.com
+📫 Reach me at: gnharshitha8@gmail.com
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
