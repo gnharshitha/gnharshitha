@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hi, I'm Harshitha!  
-🎓 I'm a passionate software developer                                                                                                                                                                                 
+🎓 passionate software developer                                                                                                                                                                                 
 💡 Currently building projects in Java, VB.net, and web technologies.  
 🌱 I'm learning backend development and exploring Microservices.  
 📫 Reach me at: gnharshitha8@gmail.com
